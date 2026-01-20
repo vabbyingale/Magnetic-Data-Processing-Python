@@ -168,3 +168,6 @@ Anom_*_crossover               | Magnetic anomalies after crossover correction (
 Author
 Vaibhav Vijay Ingale
 
+###
+Input sentry files are saved at: https://doi.org/10.5281/zenodo.18298901
+
